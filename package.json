@@ -20,7 +20,7 @@
     "dependencies": {
         "gm": "1.23.0",
         "mkdirp": "0.5.1",
-        "phantom": "^3.2.0",
+        "phantom": "3.2.0",
         "phantomjs": "^2.1.7",
         "q": "1.4.1"
     },
